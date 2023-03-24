@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10vh 0;
+}
+
+#wrapper p {
+  font-size: 1.5em;
+}
+
+
+#br{
+ display: flex;
+ flex-wrap: wrap;
+ gap:  
+ width: 8px;
+ margin: 0 auto; 
+}
